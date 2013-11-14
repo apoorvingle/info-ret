@@ -5,6 +5,8 @@ from nltk.util import ngrams
 from nltk.stem.porter import PorterStemmer
 import ast
 import sys
+from matplotlib import pyplot
+from math import log
 
 #Stemmer to stem the words
 ps = PorterStemmer()
@@ -16,7 +18,7 @@ def digestData(rawData):
     """
     #print "in digestData"
     #strip the punctuations
-    finerText = str(rawData).lower().translate(None, "\/!?*+@#$%^&*()<>\"\':;.,-|_\n\r")
+    finerText = str(rawData).lower().translate(None, "1234567890\/!?*+@#$%^&*()<>\"\':;.,-|_\n\r\t")
     #stem the data
     stemmedText = ps.stem(finerText)
     #generate character 5-grams of the stemmed text 
@@ -105,14 +107,6 @@ def digestAllFiles(inDirectory, outDirectory):
     print "**Status: all files data digested" 
     print "input directory:" + inDirectory + " output Directory: " +outDirectory + "corpus"
 
-digestAllFiles("corpus", "ngramsData")
-
-#testing functions
-#f = open(r'corpus/2.txt')
-#
-#li = digestData(f.read())
-#for grams in li:
-#    print li
 
 def getTopGrams():
     """gets the dict from the files from ngramDatacorupus
@@ -122,5 +116,47 @@ def getTopGrams():
        | input : None
        | output: None
     """
-    for 
+    print "**STATUS: creating master dictonary"
+    master_dict = dict()
+    file_list = glob.glob("ngramsDatacorpus/911*")
+    for f in file_list:
+        fp =  open(f)
+        d = ast.literal_eval(fp.read())
+        for gram in d.keys():
+            if gram in master_dict.keys():
+                master_dict[gram] = master_dict[gram] + d[gram]
+            else:
+                master_dict[gram] = d[gram]
+    
+    #generate rank order and frequency tuple
+    valueSortedArray = []
+    for key in master_dict.keys():
+        valueSortedArray.append((master_dict[key],key))
+    
+    valueSortedArray.sort(reverse=True)
+    op = open(r'master_dict', "w")
+    op.write(str(valueSortedArray))
 
+def plot(listOfTuples):
+    """inputs list of tuples as (x,y) co-ordinates
+       plot x vs y in log log scale
+    """
+    x = []
+    y = []
+    count = 1
+    for tup in listOfTuples:
+        x.append(log(count))
+        count = count + 1
+        y.append(log(tup[0]))
+    pyplot.clf()
+    pyplot.xscale('log')
+    pyplot.yscale('log')
+    pyplot.title('freq vs rank order')
+    pyplot.xlabel('rank')
+    pyplot.ylabel('frequency')
+    pyplot.plot(x,y,'r-')
+    pyplot.show()
+
+    
+digestAllFiles("corpus", "ngramsData")
+getTopGrams()
