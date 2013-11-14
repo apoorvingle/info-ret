@@ -141,6 +141,7 @@ def plot(listOfTuples):
     """inputs list of tuples as (x,y) co-ordinates
        plot x vs y in log log scale
     """
+    print "lotting"
     x = []
     y = []
     count = 1
