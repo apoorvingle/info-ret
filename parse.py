@@ -81,19 +81,19 @@ def digestAllFiles(inDirectory, outDirectory):
     
     process_list=[]
 
-    #for i in range(0,10):
-    #    print "partition: " + inDirectory+"/1"+str(i)+"*"
-    #    listOfFiles = glob.glob(inDirectory+"/1"+str(i)+"*")
-    #    #print "list:" + str(listOfFiles)
-    #    p = multiprocessing.Process(target=digestMultipleFiles, args=(listOfFiles, outDirectory))
-    #    process_list.append(p)
-
-    for i in range(8,10):
-        print "partition: " + inDirectory+"/"+str(i)+"*"
-        listOfFiles = glob.glob(inDirectory+"/"+str(i)+"*")
+    for i in range(0,10):
+        print "partition: " + inDirectory+"/9"+str(i)+"*"
+        listOfFiles = glob.glob(inDirectory+"/9"+str(i)+"*")
         #print "list:" + str(listOfFiles)
         p = multiprocessing.Process(target=digestMultipleFiles, args=(listOfFiles, outDirectory))
         process_list.append(p)
+
+    #for i in range(9,10):
+    #    print "partition: " + inDirectory+"/"+str(i)+"*"
+    #    listOfFiles = glob.glob(inDirectory+"/"+str(i)+"*")
+    #    #print "list:" + str(listOfFiles)
+    #    p = multiprocessing.Process(target=digestMultipleFiles, args=(listOfFiles, outDirectory))
+    #    process_list.append(p)
 
     print "**Status: starting process execution"
     #start the thread execution
@@ -118,7 +118,7 @@ def getTopGrams():
     """
     print "**STATUS: creating master dictonary"
     master_dict = dict()
-    file_list = glob.glob("ngramsDatacorpus/911*")
+    file_list = glob.glob("ngramsDatacorpus/91*")
     for f in file_list:
         fp =  open(f)
         d = ast.literal_eval(fp.read())
@@ -154,9 +154,12 @@ def plot(listOfTuples):
     pyplot.title('freq vs rank order')
     pyplot.xlabel('rank')
     pyplot.ylabel('frequency')
-    pyplot.plot(x,y,'r-')
+    pyplot.plot(x,y,'ro')
     pyplot.show()
 
     
 digestAllFiles("corpus", "ngramsData")
 getTopGrams()
+f = open(r'master_dict')
+listOfTuples = ast.literal_eval(f.read())
+plot(listOfTuples)
