@@ -1,9 +1,10 @@
 import os
 import glob
-import threading
 import multiprocessing
 from nltk.util import ngrams
 from nltk.stem.porter import PorterStemmer
+import ast
+import sys
 
 #Stemmer to stem the words
 ps = PorterStemmer()
@@ -31,17 +32,24 @@ def digestFile(inFilePath, outFilePath):
     try:
         #open input stream
         #print inFilePath
+        d = dict()
         inFile = open(inFilePath)
-
         #open output stream
         outFile = open(outFilePath, "w")
-        
         #read inputstream
-        #rawData = inFile.read()
+        rawData = inFile.read()
         #print rawData
-        #digestedData = str(digestData(rawData))
+        digestedData = digestData(rawData)
+
+        #get frequency of ngrams
+        for gram in digestedData:
+            if gram in d.keys():
+                d[gram] = d[gram] + 1
+            else:
+                d[gram] = 1
+
         #print digestedData
-        outFile.write(str(digestData(inFile.read())))
+        outFile.write(str(d))
     except IOError as e:
             print "I/O error({0}): {1}".format(e.errno, e.strerror)
             raise
@@ -60,7 +68,7 @@ def digestMultipleFiles(inFileList, outFilePath):
         digestFile(fileName, outFilePath+fileName)
 
 def digestAllFiles(inDirectory, outDirectory):
-    """uses 10 parallel process to read 
+    """uses 17 parallel process to read 
        all the files in the inDirectory
        digests data and writes in the outDirectory
        each file in the outDirectory contains the respective
@@ -71,21 +79,21 @@ def digestAllFiles(inDirectory, outDirectory):
     
     process_list=[]
 
-    for i in range(0,10):
-        print "partition: " + inDirectory+"/1"+str(i)+"*"
-        listOfFiles = glob.glob(inDirectory+"/1"+str(i)+"*")
-        #print "list:" + str(listOfFiles)
-        p = multiprocessing.Process(target=digestMultipleFiles, args=(listOfFiles, outDirectory))
-        process_list.append(p)
+    #for i in range(0,10):
+    #    print "partition: " + inDirectory+"/1"+str(i)+"*"
+    #    listOfFiles = glob.glob(inDirectory+"/1"+str(i)+"*")
+    #    #print "list:" + str(listOfFiles)
+    #    p = multiprocessing.Process(target=digestMultipleFiles, args=(listOfFiles, outDirectory))
+    #    process_list.append(p)
 
-    for i in range(2,10):
+    for i in range(8,10):
         print "partition: " + inDirectory+"/"+str(i)+"*"
         listOfFiles = glob.glob(inDirectory+"/"+str(i)+"*")
         #print "list:" + str(listOfFiles)
         p = multiprocessing.Process(target=digestMultipleFiles, args=(listOfFiles, outDirectory))
         process_list.append(p)
 
-    print "Status: starting process execution"
+    print "**Status: starting process execution"
     #start the thread execution
     for p in process_list:
         p.start()
@@ -94,12 +102,25 @@ def digestAllFiles(inDirectory, outDirectory):
     for p in process_list:
         p.join()
     
-    print "Status: all files data digested" 
+    print "**Status: all files data digested" 
     print "input directory:" + inDirectory + " output Directory: " +outDirectory + "corpus"
 
 digestAllFiles("corpus", "ngramsData")
 
 #testing functions
-#f = open(r'corpus/1.txt')
-#out = open("ngramsData/1.txt", "w")
-#out.write(str(digestData(f.read())))
+#f = open(r'corpus/2.txt')
+#
+#li = digestData(f.read())
+#for grams in li:
+#    print li
+
+def getTopGrams():
+    """gets the dict from the files from ngramDatacorupus
+       converts the string dict into dictonary
+       each dict and their frequencies
+       finds cumulative freq
+       | input : None
+       | output: None
+    """
+    for 
+
