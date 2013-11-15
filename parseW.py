@@ -18,11 +18,11 @@ def digestData(rawData):
     """
     #print "in digestData"
     #strip the punctuations
-    finerText = str(rawData).lower().translate(None, "1234567890\/!?*+@#$%^&*()<>\"\':;.,-|_\n\r\t")
+    finerText = str(rawData).lower().translate(None, "1234567890\/!?*+@#$%^&*()<>\"\':;.,-|_\n\r\t[](){}")
     #stem the data
     stemmedText = ps.stem(finerText)
     #generate character 5-grams of the stemmed text 
-    return ngrams(list(stemmedText),5)
+    return ngrams(stemmedText.split(),5)
 
 def digestFile(inFilePath, outFilePath):
     """reads file from inFilePath digests data and outputs
@@ -87,6 +87,13 @@ def digestAllFiles(inDirectory, outDirectory):
         #print "list:" + str(listOfFiles)
         p = multiprocessing.Process(target=digestMultipleFiles, args=(listOfFiles, outDirectory))
         process_list.append(p)
+
+    #for i in range(9,10):
+    #    print "partition: " + inDirectory+"/"+str(i)+"*"
+    #    listOfFiles = glob.glob(inDirectory+"/"+str(i)+"*")
+    #    #print "list:" + str(listOfFiles)
+    #    p = multiprocessing.Process(target=digestMultipleFiles, args=(listOfFiles, outDirectory))
+    #    process_list.append(p)
 
     print "**STATUS: starting process execution"
     #start the thread execution
