@@ -1,0 +1,811 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
+<abiword template="false" styles="unlocked" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="1793" xmlns:dc="http://purl.org/dc/elements/1.1/" fileformat="1.0" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="0.99.2" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:en-US; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<!-- ======================================================================== -->
+<!-- This file is an AbiWord document.                                        -->
+<!-- AbiWord is a free, Open Source word processor.                           -->
+<!-- More information about AbiWord is available at http://www.abisource.com/ -->
+<!-- You should not edit this file by hand.                                   -->
+<!-- ======================================================================== -->
+
+<metadata>
+<m key="dc.format">application/x-abiword</m>
+<m key="abiword.generator">AbiWord</m>
+</metadata>
+<history version="31" edit-time="6623" last-saved="1384552192" uid="6fd7bb1c-4e30-11e3-9a81-a26bc0072757">
+<version id="31" started="1384545884" uid="db499a64-4e3f-11e3-9a81-a26bc0072757" auto="0" top-xid="57"/>
+</history>
+<styles>
+<s type="P" name="Heading 1" basedon="Normal" followedby="Normal" props="keep-with-next:1; margin-top:22pt; font-weight:bold; margin-bottom:3pt; font-family:Nimbus Sans L; font-size:17pt"/>
+<s type="P" name="Normal" followedby="Current Settings" props="font-family:Times New Roman; margin-top:0pt; color:000000; margin-left:0pt; text-position:normal; widows:2; font-style:normal; text-indent:0in; font-variant:normal; font-weight:normal; margin-right:0pt; font-size:12pt; text-decoration:none; margin-bottom:0pt; line-height:1.0; bgcolor:transparent; text-align:left; font-stretch:normal"/>
+<s type="P" name="Heading 2" basedon="Normal" followedby="Normal" props="keep-with-next:1; margin-top:22pt; font-weight:bold; margin-bottom:3pt; font-family:Nimbus Sans L; font-size:14pt"/>
+<s type="P" name="Bullet List" basedon="" followedby="Current Settings" props="list-delim:%L; list-decimal:NULL; list-style:Bullet List; start-value:0; field-color:transparent; margin-left:0.500000in; text-indent:-0.300000in; field-font:Symbol"/>
+<s type="P" name="Numbered List" basedon="" followedby="Current Settings" props="list-delim:%L.; list-decimal:.; list-style:Numbered List; start-value:1; field-color:transparent; margin-left:0.500000in; text-indent:-0.300000in; field-font:NULL"/>
+<s type="P" name="Heading 3" basedon="Normal" followedby="Normal" props="keep-with-next:1; margin-top:22pt; font-weight:bold; margin-bottom:3pt; font-family:Nimbus Sans L; font-size:12pt"/>
+<s type="P" name="Heading 4" basedon="Normal" followedby="Normal" props="keep-with-next:1; margin-top:22pt; font-weight:bold; margin-bottom:3pt; font-family:Nimbus Sans L; font-size:12pt"/>
+<s type="C" name="Reference" props="font-size:10pt"/>
+</styles>
+<lists>
+<l id="1000" parentid="0" type="5" start-value="0" list-delim="%L" list-decimal="NULL"/>
+<l id="1030" parentid="0" type="0" start-value="1" list-delim="%L." list-decimal="."/>
+<l id="1035" parentid="0" type="5" start-value="0" list-delim="%L" list-decimal="NULL"/>
+<l id="1037" parentid="0" type="5" start-value="0" list-delim="%L" list-decimal="NULL"/>
+<l id="1039" parentid="0" type="5" start-value="0" list-delim="%L" list-decimal="NULL"/>
+</lists>
+<pagesize pagetype="Letter" orientation="portrait" width="8.500000" height="11.000000" units="in" page-scale="1.000000"/>
+<section xid="56" props="page-margin-footer:0.5in; page-margin-header:0.5in">
+<p style="Heading 1" xid="57" props="text-align:center"><c></c></p>
+<p style="Normal" xid="12"><c></c></p>
+<p style="Normal" xid="15"><c></c></p>
+<p style="Normal" xid="16"><c></c></p>
+<p style="Normal" xid="17"><c></c></p>
+<p style="Normal" xid="18"><c></c></p>
+<p style="Normal" xid="19"><c></c></p>
+<p style="Normal" xid="20"><c></c></p>
+<p style="Normal" xid="21"><c></c></p>
+<p style="Normal" xid="1"><c></c></p>
+<p style="Normal" xid="23"><c></c></p>
+<p style="Normal" xid="24"><c></c></p>
+<p style="Normal" xid="25"><c></c></p>
+<p style="Heading 1" xid="26" props="text-align:center"><c props="lang:en-US; font-size:24pt">Assignment Report</c></p>
+<p style="Normal" xid="94"><c props="lang:en-US"></c></p>
+<p style="Normal" xid="27"><c></c></p>
+<p style="Normal" xid="28"><c></c></p>
+<p style="Normal" xid="29"><c></c></p>
+<p style="Normal" xid="30"><c></c></p>
+<p style="Normal" xid="31"><c></c></p>
+<p style="Normal" xid="32"><c></c></p>
+<p style="Normal" xid="33"><c></c></p>
+<p style="Normal" xid="34"><c></c></p>
+<p style="Normal" xid="35"><c></c></p>
+<p style="Normal" xid="36"><c></c></p>
+<p style="Normal" xid="37"><c></c></p>
+<p style="Normal" xid="38"><c></c></p>
+<p style="Normal" xid="39"><c></c></p>
+<p style="Normal" xid="40"><c></c></p>
+<p style="Normal" xid="41"><c></c></p>
+<p style="Normal" xid="42"><c></c></p>
+<p style="Normal" xid="43"><c></c></p>
+<p style="Normal" xid="44"><c></c></p>
+<p style="Normal" xid="45"><c></c></p>
+<p style="Normal" xid="46"><c></c></p>
+<p style="Normal" xid="47"><c></c></p>
+<p style="Normal" xid="48"><c></c></p>
+<p style="Normal" xid="49"><c></c></p>
+<p style="Normal" xid="50" props="text-align:right"><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:16pt; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">Apoorv Ingle</c></p>
+<p style="Normal" xid="54" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:right; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:16pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">BT10CSE03</c></p>
+<p style="Normal" xid="52"><c></c></p>
+<p style="Heading 2" xid="53"><c></c><c>Problem Statement (Question 9):</c></p>
+<p level="1" listid="1000" style="Bullet List" xid="3" props="list-delim:%L; list-decimal:NULL; list-style:Bullet List; start-value:0; margin-left:0.5000in; text-indent:-0.3000in; field-font:Symbol"><c props="list-tag:1002"></c><field type="list_label" xid="6" props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:en-US; text-position:normal; text-transform:none; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:None; font-stretch:normal"></field><c props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:en-US; text-position:normal; text-transform:none; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:None; font-stretch:normal">	</c><c>Generate character 5 grams from the tokens extracted out of the corpus</c></p>
+<p level="1" listid="1000" style="Bullet List" xid="4" props="list-delim:%L; list-decimal:NULL; list-style:Bullet List; start-value:0; margin-left:0.5000in; text-indent:-0.3000in; field-font:Symbol"><c props="list-tag:1003"></c><field type="list_label" xid="7" props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:en-US; text-position:normal; text-transform:none; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:Bullet List; font-stretch:normal"></field><c props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:en-US; text-position:normal; text-transform:none; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:Bullet List; font-stretch:normal">	Generate a log-log plot of frequency vs rank order</c></p>
+<p level="1" listid="1000" style="Bullet List" xid="8" props="list-delim:%L; list-decimal:NULL; list-style:Bullet List; start-value:0; margin-left:0.5000in; text-indent:-0.3000in; field-font:Symbol"><c props="width:0in; list-tag:1004; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; lang:en-US; font-variant:normal; text-transform:none; text-position:normal; list-style:Bullet List; bgcolor:transparent; font-size:12pt; homogeneous:1; text-decoration:none; height:0in; color:000000; font-stretch:normal"></c><field type="list_label" xid="9" props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:en-US; text-position:normal; text-transform:none; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:Bullet List; font-stretch:normal"></field><c props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:en-US; text-position:normal; text-transform:none; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:Bullet List; font-stretch:normal">	Do the 5 grams follow Zipf’s law, if so what is the approximate value of alpha</c></p>
+<p style="Bullet List" xid="10" props="text-indent:0in; margin-left:0pt"><c props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; lang:en-US; homogeneous:1; text-transform:none; text-position:normal; color:000000; bgcolor:transparent; font-variant:normal; text-decoration:none; height:0in; font-size:12pt; font-stretch:normal"></c></p>
+<p style="Heading 2" xid="58"><c props="lang:en-US; display:inline; text-transform:none; height:0in; width:0in; homogeneous:1">Program Architecture</c></p>
+<p style="Normal" xid="61"><c props="lang:en-US; display:inline; text-transform:none; height:0in; width:0in; homogeneous:1">The program has 3 main parts:</c></p>
+<p level="1" listid="1030" parentid="0" style="Numbered List" xid="62" props="list-delim:%L.; list-decimal:.; list-style:Numbered List; start-value:1; margin-left:0.5000in; text-indent:-0.3000in; field-font:NULL"><c props="display:inline; lang:en-US; list-tag:1031; homogeneous:1; width:0in; height:0in; text-transform:none"></c><field type="list_label" xid="63" props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:en-US; text-position:normal; text-transform:none; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:Numbered List; font-stretch:normal"></field><c props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:en-US; text-position:normal; text-transform:none; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:Numbered List; font-stretch:normal">	Generating 5-gram tokens from the corpus</c></p>
+<p level="1" listid="1030" parentid="0" style="Numbered List" xid="64" props="list-delim:%L.; list-decimal:.; list-style:Numbered List; start-value:1; margin-left:0.5000in; text-indent:-0.3000in; field-font:NULL"><c props="width:0in; list-tag:1032; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; lang:en-US; font-variant:normal; text-transform:none; text-position:normal; list-style:Numbered List; bgcolor:transparent; font-size:12pt; homogeneous:1; text-decoration:none; height:0in; color:000000; font-stretch:normal"></c><field type="list_label" xid="65" props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:en-US; text-position:normal; text-transform:none; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:Numbered List; font-stretch:normal"></field><c props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:en-US; text-position:normal; text-transform:none; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:Numbered List; font-stretch:normal">	Calculating the frequency of the 5-grams</c></p>
+<p level="1" listid="1030" parentid="0" style="Numbered List" xid="66" props="list-delim:%L.; list-decimal:.; list-style:Numbered List; start-value:1; margin-left:0.5000in; text-indent:-0.3000in; field-font:NULL"><c props="width:0in; list-tag:1033; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; lang:en-US; font-variant:normal; text-transform:none; text-position:normal; list-style:Numbered List; bgcolor:transparent; font-size:12pt; homogeneous:1; text-decoration:none; height:0in; color:000000; font-stretch:normal"></c><field type="list_label" xid="67" props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:en-US; text-position:normal; text-transform:none; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:Numbered List; font-stretch:normal"></field><c props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:en-US; text-position:normal; text-transform:none; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:Numbered List; font-stretch:normal">	Plotting a log-log plot of frequency vs rank order</c></p>
+<p style="Numbered List" xid="68" props="text-indent:0in; margin-left:0pt"><c props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; lang:en-US; homogeneous:1; text-transform:none; text-position:normal; color:000000; bgcolor:transparent; font-variant:normal; text-decoration:none; height:0in; font-size:12pt; font-stretch:normal"></c></p>
+<p style="Heading 3" xid="70"><c props="text-decoration:underline; display:inline; lang:en-US; homogeneous:1; width:0in; height:0in; text-transform:none">Part 1</c><c props="lang:en-US; display:inline; text-transform:none; height:0in; width:0in; homogeneous:1"> Generating 5-gram tokens from the corpus:</c></p>
+<p style="Normal" xid="73"><c props="lang:en-US; display:inline; text-transform:none; height:0in; width:0in; homogeneous:1">The corpus is a collection of 19997 text documents of various types such as essays, emails, articles etc. All these files are stored in the folder called “corpus”. </c></p>
+<p style="Normal" xid="76"><c props="lang:en-US; display:inline; text-transform:none; height:0in; width:0in; homogeneous:1"></c></p>
+<p style="Normal" xid="77"><c props="lang:en-US; display:inline; text-transform:none; height:0in; width:0in; homogeneous:1"></c><c props="lang:en-US; display:inline; text-transform:none; height:0in; width:0in; homogeneous:1">The token generation is done via parallel processing, where multiple process are used to generate the tokens. This helps in reducing the overall time requrired to analyse the documents.</c></p>
+<p style="Normal" xid="74"><c props="lang:en-US; display:inline; text-transform:none; height:0in; width:0in; homogeneous:1"></c></p>
+<p style="Normal" xid="75"><c props="height:0in; display:inline; lang:en-US; width:0in; text-transform:none; homogeneous:1">Each file generatres a gram-dictonary file in the folder “ngramsDatacorpus”. This file is a text document which has the grams and its frequency in a python dictonary form.</c></p>
+<p style="Normal" xid="79"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Normal" xid="83"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none">The function digestAllFiles generates the 5 gram tokens from the corpus.</c></p>
+<p style="Heading 3" xid="106"><c props="text-decoration:underline; display:inline; lang:en-US; homogeneous:1; width:0in; height:0in; text-transform:none"></c><c props="text-decoration:underline; display:inline; lang:en-US; homogeneous:1; width:0in; height:0in; text-transform:none">Part 2</c><c props="height:0in; display:inline; lang:en-US; width:0in; text-transform:none; homogeneous:1"> Calculating the frequency of the 5-grams</c></p>
+<p style="Normal" xid="81"><c props="height:0in; display:inline; lang:en-US; width:0in; text-transform:none; homogeneous:1">All the files in ngramsDatacorpus are merged to form a master dictonary in which the 5-grams. This master dictonary contains all the 5-grams and their respective frequencies.</c></p>
+<p style="Normal" xid="84"><c props="height:0in; display:inline; lang:en-US; width:0in; text-transform:none; homogeneous:1"></c></p>
+<p style="Normal" xid="85"><c props="height:0in; display:inline; lang:en-US; width:0in; text-transform:none; homogeneous:1">An inverted-freqency 5-gram list is then created, which stores all the frequency and 5-grams in a tuple form, in the highest fequency first order. This list is then stored in master_dict file in the parent folder.</c></p>
+<p style="Normal" xid="86"><c props="height:0in; display:inline; lang:en-US; width:0in; text-transform:none; homogeneous:1"></c></p>
+<p style="Normal" xid="87"><c props="height:0in; display:inline; lang:en-US; width:0in; text-transform:none; homogeneous:1">The function getTopGrams generates the file master_dict.</c></p>
+<p style="Normal" xid="1733"><c props="height:0in; display:inline; lang:en-US; width:0in; text-transform:none; homogeneous:1"></c></p>
+<p style="Normal" xid="1734"><c props="height:0in; display:inline; lang:en-US; width:0in; text-transform:none; homogeneous:1"></c></p>
+<p style="Normal" xid="1735"><c props="height:0in; display:inline; lang:en-US; width:0in; text-transform:none; homogeneous:1"></c></p>
+<p style="Heading 3" xid="89"><c props="text-decoration:underline; display:inline; lang:en-US; homogeneous:1; width:0in; height:0in; text-transform:none">Part 3</c><c props="text-decoration:none; display:inline; lang:en-US; homogeneous:1; width:0in; height:0in; text-transform:none"> Plotting the log-log frequency vs rank order</c></p>
+<p style="Normal" xid="108" props="font-family:Times New Roman; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none">The function plot plots the graph using the list of tuples generated in part 2.</c></p>
+<p style="Heading 2" xid="109" props="font-family:Times New Roman; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none">Appendix A</c></p>
+<p style="Normal" xid="98"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none">Program Code</c></p>
+<p style="Normal" xid="99" props="font-family:Times New Roman; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></p>
+<p style="Heading 2" xid="130" props="font-family:Times New Roman; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></p>
+<frame xid="1765" props="xpad:0.03in; ypad:0.03in; frame-col-ypos:1.761111in; bot-style:1; frame-col-xpos:-0.547917in; position-to:column-above-text; background-color:ffffff; xpos:-0.547917in; bg-style:1; ypos:-0.002778in; frame-width:7.829167in; frame-height:6.499306in; frame-page-ypos:2.761111in; relocate:0; wrap-mode:wrapped-both; top-style:1; frame-page-xpos:0.452083in; left-style:1; frame-type:textbox; tight-wrap:0; pref-page:2; right-style:1">
+<p xid="1767" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">import os</c></p>
+<p xid="1768" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">import glob</c></p>
+<p xid="1769" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">import multiprocessing</c></p>
+<p xid="1770" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">from nltk.util import ngrams</c></p>
+<p xid="1771" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">from nltk.stem.porter import PorterStemmer</c></p>
+<p xid="1772" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">import ast</c></p>
+<p xid="1773" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">import sys</c></p>
+<p xid="1774" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">from matplotlib import pyplot</c></p>
+<p xid="1775" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">from math import log</c></p>
+<p xid="1776" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c></p>
+<p xid="1777" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">#Stemmer to stem the words</c></p>
+<p xid="1778" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">ps = PorterStemmer()</c></p>
+<p xid="1779" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c></p>
+<p xid="1780" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">def digestData(rawData):</c></p>
+<p xid="1781" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">“”“generates the ngrams of the given text</c></p>
+<p xid="1782" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">| input : raw data read from the file stream</c></p>
+<p xid="1783" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">| output: ngrams of the given input</c></p>
+<p xid="1784" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">“”“</c></p>
+<p xid="1785" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">#print “in digestData"</c></p>
+<p xid="1786" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">#strip the punctuations</c></p>
+<p xid="1787" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">finerText = str(rawData).lower().translate(None, “1234567890\/!?*+@#$%^&amp;*()&lt;&gt;\"\’:;.,-|_\n\r\t”)</c></p>
+<p xid="1788" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">#stem the data</c></p>
+<p xid="1789" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">stemmedText = ps.stem(finerText)</c></p>
+<p xid="1790" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">#generate character 5-grams of the stemmed text </c></p>
+<p xid="1791" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">return ngrams(list(stemmedText),5)</c></p>
+<p xid="1792" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c></p>
+<p xid="1793" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c></p>
+</frame><p style="Heading 2" xid="145" props="font-family:Times New Roman; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></p>
+<p style="Heading 2" xid="146" props="font-family:Times New Roman; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></p>
+<p style="Heading 2" xid="147"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Heading 2" xid="148"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Heading 2" xid="149"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Heading 2" xid="150"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Heading 2" xid="151"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Heading 2" xid="152"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Heading 2" xid="153"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Heading 2" xid="154"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Heading 2" xid="155"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Heading 2" xid="156"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Heading 2" xid="157" props="font-family:Times New Roman; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></p>
+<frame xid="1257" props="xpad:0.03in; ypad:0.03in; frame-col-ypos:-0.625000in; bot-style:1; frame-col-xpos:-0.812500in; position-to:column-above-text; background-color:ffffff; xpos:-0.812500in; bg-style:1; ypos:-0.625000in; frame-width:7.766667in; frame-height:10.178472in; frame-page-ypos:0.375000in; relocate:0; wrap-mode:wrapped-both; top-style:1; frame-page-xpos:0.187500in; left-style:1; frame-type:textbox; tight-wrap:0; pref-page:3; right-style:1">
+<p xid="1258" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>def digestFile(inFilePath, outFilePath):</c></p>
+<p xid="1259" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>    """reads file from inFilePath digests data and outputs</c></p>
+<p xid="1260" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>       the data in the outFilePath folder</c></p>
+<p xid="1261" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>       | input : path to the input file to read data inFilePath, </c></p>
+<p xid="1262" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>                 path to the output file to write data outFilePath</c></p>
+<p xid="1263" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>       | output: None</c></p>
+<p xid="1264" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>    """</c></p>
+<p xid="1265" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>    try:</c></p>
+<p xid="1266" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>        #open input stream</c></p>
+<p xid="1267" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>        #print inFilePath</c></p>
+<p xid="1268" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>        d = dict()</c></p>
+<p xid="1269" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>        inFile = open(inFilePath)</c></p>
+<p xid="1270" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>        #open output stream</c></p>
+<p xid="1271" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>        outFile = open(outFilePath, "w")</c></p>
+<p xid="1272" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>        #read inputstream</c></p>
+<p xid="1273" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>        rawData = inFile.read()</c></p>
+<p xid="1274" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>        #print rawData</c></p>
+<p xid="1275" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>        digestedData = digestData(rawData)</c></p>
+<p xid="1276" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c></c></p>
+<p xid="1277" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>        #get frequency of ngrams</c></p>
+<p xid="1278" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>        for gram in digestedData:</c></p>
+<p xid="1279" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>            if gram in d.keys():</c></p>
+<p xid="1280" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>                d[gram] = d[gram] + 1</c></p>
+<p xid="1281" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>            else:</c></p>
+<p xid="1282" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>                d[gram] = 1</c></p>
+<p xid="1283" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c></c></p>
+<p xid="1284" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>        #print digestedData</c></p>
+<p xid="1285" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>        outFile.write(str(d))</c></p>
+<p xid="1286" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>    except IOError as e:</c></p>
+<p xid="1287" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>        print "**STATUS: I/O error({0}): {1}".format(e.errno, e.strerror)</c></p>
+<p xid="1288" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>        raise</c></p>
+<p xid="1289" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>    except:</c></p>
+<p xid="1290" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>        print "**STATUS: Unexpected error:", sys.exc_info()[0]</c></p>
+<p xid="1291" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>        raise</c></p>
+<p xid="1292" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c></c></p>
+<p xid="1293" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>def digestMultipleFiles(inFileList, outFilePath):</c></p>
+<p xid="1294" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>    """digests multiple files given in the inFileList</c></p>
+<p xid="1295" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>       and generates corresponding data in the outFilePath</c></p>
+<p xid="1296" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>       | input : digest the files given in the inFileList</c></p>
+<p xid="1297" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>       | output: None</c></p>
+<p xid="1298" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>    """</c></p>
+<p xid="1299" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>    print "digesting partition " + inFileList[0]</c></p>
+<p xid="1300" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>    for fileName in inFileList:</c></p>
+<p xid="1301" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>        digestFile(fileName, outFilePath+fileName)</c></p>
+<p xid="1302" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c></c></p>
+<p xid="1303" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c></c></p>
+</frame><p style="Heading 2" xid="1041" props="font-family:Times New Roman; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></p>
+<p style="Heading 2" xid="1042" props="font-family:Times New Roman; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></p>
+<p style="Heading 2" xid="1043" props="font-family:Times New Roman; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></p>
+<p style="Heading 2" xid="1044" props="font-family:Times New Roman; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></p>
+<p style="Heading 2" xid="1045" props="font-family:Times New Roman; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></p>
+<p style="Heading 2" xid="1046" props="font-family:Times New Roman; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></p>
+<p style="Heading 2" xid="1047" props="font-family:Times New Roman; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></p>
+<p style="Heading 2" xid="1048" props="font-family:Times New Roman; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></p>
+<p style="Heading 2" xid="1049" props="font-family:Times New Roman; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></p>
+<p style="Heading 2" xid="1050" props="font-family:Times New Roman; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></p>
+<p style="Heading 2" xid="1051" props="font-family:Times New Roman; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></p>
+<p style="Heading 2" xid="1052" props="font-family:Times New Roman; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></p>
+<p style="Heading 2" xid="1053" props="font-family:Times New Roman; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></p>
+<p style="Heading 2" xid="1054" props="font-family:Times New Roman; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></p>
+<p style="Heading 2" xid="1055" props="font-family:Times New Roman; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></p>
+<p style="Heading 2" xid="1056" props="font-family:Times New Roman; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></p>
+<p style="Heading 2" xid="1057" props="font-family:Times New Roman; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></p>
+<p style="Normal" xid="1304" props="font-family:Times New Roman; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></p>
+<frame xid="1478" props="xpad:0.03in; ypad:0.03in; frame-col-ypos:-0.635417in; bot-style:1; frame-col-xpos:-0.635417in; position-to:column-above-text; background-color:ffffff; xpos:-0.635417in; bg-style:1; ypos:-0.635417in; frame-width:7.506250in; frame-height:10.213889in; frame-page-ypos:0.364583in; relocate:0; wrap-mode:wrapped-both; top-style:1; frame-page-xpos:0.364583in; left-style:1; frame-type:textbox; tight-wrap:0; pref-page:4; right-style:1">
+<p xid="1479" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>def digestAllFiles(inDirectory, outDirectory):</c></p>
+<p xid="1480" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>    """uses 17 parallel process to read </c></p>
+<p xid="1481" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>       all the files in the inDirectory</c></p>
+<p xid="1482" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>       digests data and writes in the outDirectory</c></p>
+<p xid="1483" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>       each file in the outDirectory contains the respective</c></p>
+<p xid="1484" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>       ngrams of each file</c></p>
+<p xid="1485" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>       | input : directory name in which the corpus is situated</c></p>
+<p xid="1486" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>       | output: None</c></p>
+<p xid="1487" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>    """</c></p>
+<p xid="1488" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>    </c></p>
+<p xid="1489" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>    process_list=[]</c></p>
+<p xid="1490" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c></c></p>
+<p xid="1491" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>    for i in range(0,10):</c></p>
+<p xid="1492" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>        print "partition: " + inDirectory+"/9"+str(i)+"*"</c></p>
+<p xid="1493" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>        listOfFiles = glob.glob(inDirectory+"/9"+str(i)+"*")</c></p>
+<p xid="1494" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>        #print "list:" + str(listOfFiles)</c></p>
+<p xid="1495" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>        p = multiprocessing.Process(target=digestMultipleFiles, args=(listOfFiles, outDirectory))</c></p>
+<p xid="1496" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>        process_list.append(p)</c></p>
+<p xid="1497" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c></c></p>
+<p xid="1498" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>    print "**STATUS: starting process execution"</c></p>
+<p xid="1499" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>    #start the thread execution</c></p>
+<p xid="1500" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>    for p in process_list:</c></p>
+<p xid="1501" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>        p.start()</c></p>
+<p xid="1502" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c></c></p>
+<p xid="1503" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>    #wait for the threads to stop</c></p>
+<p xid="1504" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>    for p in process_list:</c></p>
+<p xid="1505" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>        p.join()</c></p>
+<p xid="1506" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>    </c></p>
+<p xid="1507" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>    print "**STATUS: all files data digested" </c></p>
+<p xid="1508" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>    print "input directory:" + inDirectory + " output Directory: " +outDirectory + "corpus"</c></p>
+</frame><p style="Normal" xid="1336" props="lang:en-US"></p>
+<p style="Normal" xid="1337" props="lang:en-US"></p>
+<p style="Normal" xid="1338" props="lang:en-US"></p>
+<p style="Normal" xid="1339" props="lang:en-US"></p>
+<p style="Normal" xid="1340" props="lang:en-US"></p>
+<p style="Normal" xid="1341" props="lang:en-US"></p>
+<p style="Normal" xid="1342" props="lang:en-US"></p>
+<p style="Normal" xid="1343" props="lang:en-US"></p>
+<p style="Normal" xid="1344" props="lang:en-US"></p>
+<p style="Normal" xid="1345" props="lang:en-US"></p>
+<p style="Normal" xid="1346" props="lang:en-US"></p>
+<p style="Normal" xid="1347" props="lang:en-US"></p>
+<p style="Normal" xid="1348" props="lang:en-US"></p>
+<p style="Normal" xid="1349" props="lang:en-US"></p>
+<p style="Normal" xid="1350" props="lang:en-US"></p>
+<p style="Normal" xid="1351" props="lang:en-US"></p>
+<p style="Normal" xid="1352" props="lang:en-US"></p>
+<p style="Normal" xid="1353" props="lang:en-US"></p>
+<p style="Normal" xid="1354" props="lang:en-US"></p>
+<p style="Normal" xid="1355" props="lang:en-US"></p>
+<p style="Normal" xid="1356" props="lang:en-US"></p>
+<p style="Normal" xid="1357" props="lang:en-US"></p>
+<p style="Normal" xid="1358" props="lang:en-US"></p>
+<p style="Normal" xid="1359" props="lang:en-US"></p>
+<p style="Normal" xid="1360" props="lang:en-US"></p>
+<p style="Normal" xid="1361" props="lang:en-US"></p>
+<p style="Normal" xid="1362" props="lang:en-US"></p>
+<p style="Normal" xid="1363" props="lang:en-US"></p>
+<p style="Normal" xid="1364" props="lang:en-US"></p>
+<p style="Normal" xid="1365" props="lang:en-US"></p>
+<p style="Normal" xid="1366" props="lang:en-US"></p>
+<p style="Normal" xid="1367" props="lang:en-US"></p>
+<p style="Normal" xid="1368" props="lang:en-US"></p>
+<p style="Normal" xid="1369" props="lang:en-US"></p>
+<p style="Normal" xid="1370" props="lang:en-US"></p>
+<p style="Normal" xid="1371" props="lang:en-US"></p>
+<p style="Normal" xid="1372" props="lang:en-US"></p>
+<p style="Normal" xid="1373" props="lang:en-US"></p>
+<p style="Normal" xid="1374" props="lang:en-US"></p>
+<p style="Normal" xid="1375" props="lang:en-US"></p>
+<p style="Normal" xid="1376" props="lang:en-US"></p>
+<p style="Normal" xid="1335"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Normal" xid="1525"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Normal" xid="1526" props="font-family:Times New Roman; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></p>
+<frame xid="1586" props="xpad:0.03in; ypad:0.03in; frame-col-ypos:-0.635417in; bot-style:1; frame-col-xpos:-0.531250in; position-to:column-above-text; background-color:ffffff; xpos:-0.531250in; bg-style:1; ypos:-0.635417in; frame-width:7.421528in; frame-height:10.284028in; frame-page-ypos:0.364583in; relocate:0; wrap-mode:wrapped-both; top-style:1; frame-page-xpos:0.468750in; left-style:1; frame-type:textbox; tight-wrap:0; pref-page:5; right-style:1">
+<p xid="1588" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>def getTopGrams():</c></p>
+<p xid="1589" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>    """gets the dict from the files from ngramDatacorupus</c></p>
+<p xid="1590" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>       converts the string dict into dictonary</c></p>
+<p xid="1591" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>       each dict and their frequencies</c></p>
+<p xid="1592" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>       finds cumulative freq</c></p>
+<p xid="1593" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>       | input : None</c></p>
+<p xid="1594" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>       | output: None</c></p>
+<p xid="1595" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>    """</c></p>
+<p xid="1596" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>    print "**STATUS: creating master dictonary"</c></p>
+<p xid="1597" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>    master_dict = dict()</c></p>
+<p xid="1598" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>    file_list = glob.glob("ngramsDatacorpus/91*")</c></p>
+<p xid="1599" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>    for f in file_list:</c></p>
+<p xid="1600" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>        fp =  open(f)</c></p>
+<p xid="1601" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>        d = ast.literal_eval(fp.read())</c></p>
+<p xid="1602" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>        for gram in d.keys():</c></p>
+<p xid="1603" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>            if gram in master_dict.keys():</c></p>
+<p xid="1604" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>                master_dict[gram] = master_dict[gram] + d[gram]</c></p>
+<p xid="1605" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>            else:</c></p>
+<p xid="1606" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>                master_dict[gram] = d[gram]</c></p>
+<p xid="1607" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>    </c></p>
+<p xid="1608" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>    #generate rank order and frequency tuple</c></p>
+<p xid="1609" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>    valueSortedArray = []</c></p>
+<p xid="1610" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>    for key in master_dict.keys():</c></p>
+<p xid="1611" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>        valueSortedArray.append((master_dict[key],key))</c></p>
+<p xid="1612" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>    </c></p>
+<p xid="1613" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>    valueSortedArray.sort(reverse=True)</c></p>
+<p xid="1614" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>    op = open(r'master_dict', "w")</c></p>
+<p xid="1615" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>    op.write(str(valueSortedArray))</c></p>
+<p xid="1616" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c></c></p>
+<p xid="1617" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>def plot(listOfTuples):</c></p>
+<p xid="1618" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>    """inputs list of tuples as (x,y) co-ordinates</c></p>
+<p xid="1619" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>       plot x vs y in log log scale</c></p>
+<p xid="1620" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>    """</c></p>
+<p xid="1621" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>    print "**STATUS: plotting"</c></p>
+<p xid="1622" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>    x = []</c></p>
+<p xid="1623" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>    y = []</c></p>
+<p xid="1624" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>    count = 1</c></p>
+<p xid="1625" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>    for tup in listOfTuples:</c></p>
+<p xid="1626" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>        x.append(log(count))</c></p>
+<p xid="1627" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>        count = count + 1</c></p>
+<p xid="1628" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>        y.append(log(tup[0]))</c></p>
+<p xid="1629" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>    pyplot.clf()</c></p>
+<p xid="1630" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>    pyplot.xscale('log')</c></p>
+<p xid="1631" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>    pyplot.yscale('log')</c></p>
+<p xid="1632" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>    pyplot.title('freq vs rank order')</c></p>
+<p xid="1633" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>    pyplot.xlabel('rank')</c></p>
+<p xid="1634" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>    pyplot.ylabel('frequency')</c></p>
+<p xid="1635" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>    pyplot.plot(x,y,'ro')</c></p>
+<p xid="1636" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>    pyplot.show()</c></p>
+<p xid="1637" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c></c></p>
+</frame><p style="Normal" xid="1527"></p>
+<p style="Normal" xid="1528" props="font-family:Times New Roman; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></p>
+<p style="Normal" xid="1529"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Normal" xid="1530"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Normal" xid="1531"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Normal" xid="1532"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Normal" xid="1533"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Normal" xid="1534"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Normal" xid="1535"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Normal" xid="1536"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Normal" xid="1537"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Normal" xid="1538"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Normal" xid="1539"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Normal" xid="1540"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Normal" xid="1541"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Normal" xid="1542"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Normal" xid="1543"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Normal" xid="1544"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Normal" xid="1545"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Normal" xid="1546"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Normal" xid="1547"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Normal" xid="1548"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Normal" xid="1549"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Normal" xid="1550"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Normal" xid="1551"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Normal" xid="1552"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Normal" xid="1553"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Normal" xid="1554"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Normal" xid="1555"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Normal" xid="1556"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Normal" xid="1557"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Normal" xid="1558"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Normal" xid="1559"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Normal" xid="1560"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Normal" xid="1561"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Normal" xid="1562"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Normal" xid="1563"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Normal" xid="1570"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Normal" xid="1564"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Normal" xid="1565"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Normal" xid="1566"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Normal" xid="1524"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Normal" xid="1654"></p>
+<p style="Normal" xid="1655" props="font-family:Times New Roman; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></p>
+<frame xid="1709" props="xpad:0.03in; ypad:0.03in; frame-col-ypos:-0.556944in; bot-style:1; frame-col-xpos:-0.660417in; position-to:column-above-text; background-color:ffffff; xpos:-0.660417in; bg-style:1; ypos:-0.556944in; frame-width:7.577778in; frame-height:2.876389in; frame-page-ypos:0.443056in; relocate:0; wrap-mode:wrapped-both; top-style:1; frame-page-xpos:0.339583in; left-style:1; frame-type:textbox; tight-wrap:0; pref-page:6; right-style:1">
+<p xid="1711" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>    </c></p>
+<p xid="1712" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>digestAllFiles("corpus", "ngramsData")</c></p>
+<p xid="1713" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>getTopGrams()</c></p>
+<p xid="1714" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>f = open(r'master_dict')</c></p>
+<p xid="1715" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>listOfTuples = ast.literal_eval(f.read())</c></p>
+<p xid="1716" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>plot(listOfTuples)</c></p>
+</frame><p style="Normal" xid="1656"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Normal" xid="1657"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Normal" xid="1658"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Normal" xid="1659"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Normal" xid="1660"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Normal" xid="1661"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Normal" xid="1662"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Normal" xid="1663"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Normal" xid="1664"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Normal" xid="1665"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Normal" xid="1666"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Normal" xid="1667"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Normal" xid="1668"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Heading 4" xid="1669"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none">Log-log plot of freqency vs rank order:</c></p>
+<p style="Normal" xid="1723"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Normal" xid="1724"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c><image dataid="49f2e728-4e3f-11e3-9a81-a26bc0072757" title="" alt="" xid="1731" props="height:5.2451in; width:6.1750in"/></p>
+<p style="Heading 2" xid="1732"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none">Appendix B</c></p>
+<p style="Normal" xid="100"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Heading 3" xid="101"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none">Python third party libraries</c></p>
+<p style="Normal" xid="102"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Normal" xid="112"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none">NLTK (www.nltk.org)</c></p>
+<p style="Normal" xid="110"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none">This library has an extensive functionality for text analysis</c></p>
+<p style="Normal" xid="111"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Normal" xid="103"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none">matplotlib </c></p>
+<p style="Normal" xid="129"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none">This is an open source library for plotting requirements like matlab plot functions.</c></p>
+<p style="Normal" xid="105"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Heading 3" xid="107"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none">References</c></p>
+<p level="1" listid="1035" parentid="0" style="Bullet List" xid="104" props="list-delim:%L; list-decimal:NULL; list-style:Bullet List; start-value:0; margin-left:0.5000in; text-indent:-0.3000in; field-font:Symbol"><c props="display:inline; lang:en-US; list-tag:1036; homogeneous:1; width:0in; height:0in; text-transform:none"></c><field type="list_label" xid="118" props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:en-US; text-position:normal; text-transform:none; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:Bullet List; font-stretch:normal"></field><c props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:en-US; text-position:normal; text-transform:none; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:Bullet List; font-stretch:normal">	</c><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none">Extention to zipfs law to Words and Phrases</c></p>
+<p style="Normal" xid="114" props="text-align:left; dom-dir:ltr"><c>	(cl.ldc.upenn.edu/coling2002/proceedings/data/area-04/co-305.pdf)</c></p>
+<p level="1" listid="1037" parentid="0" style="Bullet List" xid="96" props="list-delim:%L; list-decimal:NULL; list-style:Bullet List; start-value:0; margin-left:0.5000in; text-indent:-0.3000in; field-font:Symbol"><c props="display:inline; lang:en-US; list-tag:1038; homogeneous:1; width:0in; height:0in; text-transform:none"></c><field type="list_label" xid="119" props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:en-US; text-position:normal; text-transform:none; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:Bullet List; font-stretch:normal"></field><c props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:en-US; text-position:normal; text-transform:none; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:Bullet List; font-stretch:normal">	Prof. </c><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none">William D Lewis presentation on N grams</c></p>
+<p style="Normal" xid="116" props="text-align:left; dom-dir:ltr"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none">	(</c><c>http://faculty.washington.edu/wlewis2/courses/570/570-Day-11-slides.pdf</c><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none">)</c></p>
+<p style="Normal" xid="117" props="text-align:left; dom-dir:ltr"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c></p>
+<p style="Heading 3" xid="115"><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none"></c><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none">Future Amendments</c></p>
+<p level="1" listid="1039" parentid="0" style="Bullet List" xid="120" props="list-delim:%L; list-decimal:NULL; list-style:Bullet List; start-value:0; margin-left:0.5000in; text-indent:-0.3000in; field-font:Symbol"><c props="display:inline; lang:en-US; list-tag:1040; homogeneous:1; width:0in; height:0in; text-transform:none"></c><field type="list_label" xid="123" props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:en-US; text-position:normal; text-transform:none; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:Bullet List; font-stretch:normal"></field><c props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:en-US; text-position:normal; text-transform:none; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:Bullet List; font-stretch:normal">	</c><c props="lang:en-US; display:inline; height:0in; width:0in; homogeneous:1; text-transform:none">The functions can be encapusated in to a class for a better API.</c></p>
+<p level="1" listid="1039" style="Bullet List" xid="122" props="list-delim:%L; list-decimal:NULL; list-style:Bullet List; start-value:0; margin-left:0.5000in; text-indent:-0.3000in; field-font:Symbol"><c props="display:inline; lang:en-US; list-tag:1041; homogeneous:1; width:0in; height:0in; text-transform:none"></c><field type="list_label" xid="124" props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:en-US; text-position:normal; text-transform:none; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:Bullet List; font-stretch:normal"></field><c props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:en-US; text-position:normal; text-transform:none; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:Bullet List; font-stretch:normal">	in getTopGrams function use parallel processes to generate the master_dict faster. Use a modified external sort to get the inverted frequency-Ngram tuple list</c></p>
+</section>
+<data>
+<d name="49f2e728-4e3f-11e3-9a81-a26bc0072757" mime-type="image/png" base64="yes">
+iVBORw0KGgoAAAANSUhEUgAAAyAAAAJYCAYAAACadoJwAAAABHNCSVQICAgIfAhkiAAAAAlw
+SFlzAAAPYQAAD2EBqD+naQAAIABJREFUeJzs3Xl4VOXdxvH7TFbCFtSABAXKDm6YCIStAm4o
+GorgEgQEtQhtodG3xYpStbi0QSsgoqVVVt8RdxEERSwIsmkiokKBlyVUiSQsYU/Ict4/zkzI
+MoEEwjlnku/nuuaa5JwzM78EY+bO8/yexzBN0xQAAAAA2MDjdAEAAAAAag4CCAAAAADbEEAA
+AAAA2IYAAgAAAMA2BBAAAAAAtiGAAAAAALANAQQAAACAbQggAAAAAGxDAAEAAABgGwIIAAAA
+ANsQQAAAAADYhgACAAAAwDYEEAAAAAC2IYAAAAAAsA0BBAAAAIBtCCAAAAAAbEMAAQAAAGAb
+AggAAAAA2xBAAAAAANiGAAIAAADANgQQAAAAALYhgAAAAACwDQEEAAAAgG0IIAAAAABsQwAB
+AAAAYBsCCAAAAADbEEAAAAAA2IYAAgAAAMA2BBAAAAAAtiGAAAAAALANAQQAAACAbQggAAAA
+AGxDAAEAAABgGwIIAAAAANsQQAAAAADYhgACAAAAwDYEEAAAAAC2IYAAgKSpU6eqQ4cOqlWr
+ljwej6ZMmeJ0SSjHk08+KY/Hoy+++MLpUirF4/God+/eTpcBAI4LdboAAHDam2++qeTkZMXF
+xenhhx9WRESEunbt6nRZqIYMw3C6BABwHAEEQI23cOHCovuLL77Y4WoAAKjemIIFoMbbs2eP
+DMMgfAAAYAMCCIAay99LsHz5cpmmKY/HU3Tz88/b37t3rx544AE1adJEoaGhmj17dtE169at
+06BBg3TxxRcrIiJCTZs21ahRo5SRkRHwdVNTU9W3b1/VrVtX9evX1w033KC1a9dWqrehb9++
+8ng82rhxY8Dz8+fPl8fj0bhx44qO7dixQyNHjlSrVq0UFRWlCy+8UFdeeaVGjx6tAwcOVOh7
+dqbvx9atW/WnP/1J11xzjWJiYhQZGanmzZvrwQcf1E8//VTm+ZYvXy6Px6OnnnpKGzZsUL9+
+/RQdHa3atWurV69eWrNmTYXqkqTdu3frsssuU0REhN54440KPebQoUN69NFH1bZtW9WqVUsX
+XHCB+vbtq2XLlp221vXr16tfv3664IIL5PF4tHv3bknSyZMnNXHiRLVs2VKRkZFq0aKFJkyY
+oNzc3HJryM/P1/Tp05WQkKB69eqpdu3aiouL08svvyzTNEtcu2vXLnk8Ho0YMUJbt27VXXfd
+pYYNGyokJEQrVqyo8PcKAJzEFCwANVbv3r1lGIZmzZql9PR0PfnkkwGvO3DggBISElS3bl0N
+GjRIHo+naLTk9ddf18iRI1WrVi0lJibq0ksv1datW/Wvf/1LH330kdauXatLL7206LlWr16t
+66+/Xvn5+br99tvVqlUrffPNN+rVq5f69OlT4dqHDx+uTz/9VHPmzNHzzz9f5vzs2bNlGIaG
+Dx8uScrIyFCnTp105MgR9evXT3fccYdycnK0Y8cOzZs3T2PGjNEFF1xQodc+3ffjvffe0z/+
+8Q/16dNHPXr0UHh4uL7//vui78fXX3+t2NjYMs/59ddfKyUlRd26ddPIkSOVnp6ud999V9dd
+d502bNigNm3anLamb7/9VrfccouOHTumxYsXV+h7mZ2dre7du2vz5s3q3LmzBg4cqKysLL31
+1lu68cYb9corr2jkyJFlHrdmzRo999xz6tmzpx544AHt27dP4eHhMk1Td955pxYsWKBWrVpp
+zJgxys3N1euvv15uUMzLy9Ntt92mTz/9VO3atdOQIUMUGRmpzz//XGPGjNG6des0Z86cMo/b
+vn27EhIS1LZtWw0dOlQnTpxQ/fr1z/g1A4ArmABQw1177bWmx+MJeM4wDNMwDPPee+81CwoK
+SpzbsmWLGRYWZrZu3drcs2dPiXPLli0zQ0JCzAEDBhQdKywsNNu2bWt6PB5zwYIFJa6fMmWK
+aRiG6fF4zBUrVpyx5pycHDM6Otq8+OKLzfz8/BLnMjIyzJCQEPOaa64pOjZ16lTTMAxz6tSp
+ZZ7r+PHj5okTJ874mqZ5+u+HaZrmTz/9ZJ48ebLM8U8//dQMCQkxR48eXeL4v//976LnnD17
+dolz//jHP0zDMMzf/OY3JY4/8cQTpmEYRd+npUuXmvXq1TObNGlibty4sUJfh2ma5siRI03D
+MMxRo0aVOL5t2zazfv36ZkREhLlr166Atc6YMaPM873xxhumYRhmt27dzNzc3KLjBw4cMFu2
+bGkahmH27t074NcyduxYs7CwsOh4QUGBef/995uGYZgffvhh0fGdO3cW1fDYY49V+GsFADch
+gACo8c4UQCIjI82srKwy55KTk03DMMyPP/444GN/9atfmaGhoebRo0dN0zTNVatWmYZhmL16
+9SpzbUFBgdmqVasSb6zPxP8GetGiRSWOT5o0yTQMw3zppZeKjr300kvlvnGujNN9P87kiiuu
+MFu0aFHimP9Nfc+ePctcn5eXZ4aGhpqdOnUqcdz/pn358uXm3LlzzbCwMPOyyy4z//vf/1a4
+ltzcXDMqKsqsV6+eefDgwTLnJ0yYYBqGYf7lL38pU2tcXFzA57z++uuL6ipt1qxZZQJIQUGB
+ecEFF5ixsbEBw9zBgwdNj8dj3nnnnUXH/AGkcePGAYMeAAQDpmABwBk0b95cF110UZnj/v6E
+5cuXa926dWXOZ2ZmqqCgQFu3btXVV1+ttLQ0SdK1115b5lqPx6Pu3btr+/btFa5r+PDh+uc/
+/6nZs2frlltuKTo+e/ZshYeHa/DgwUXHEhMTNX78eP32t7/VJ598ohtvvFE9evRQhw4dKvx6
+fuV9P/zmzZunWbNm6dtvv1V2drYKCgqKzkVERAR8zDXXXFPmWGhoqBo1aqSDBw8GfMyUKVP0
+wQcfqGfPnlqwYEGlpiBt2bJFJ06cUI8ePRQdHV3mfJ8+ffT0009rw4YNZc517tw54HOmpaUp
+JCREPXr0KHOuV69eZY5t3bpVBw8eVOvWrfWXv/wl4HNGRkZq8+bNZY5fddVVCgsLC/gYAHA7
+AggAnEF5q2Pt379fkjRp0qRyH2sYho4ePSrJaniWpEaNGlXqdcrTtWtXtWnTRgsWLFB2drai
+o6OVlpamH374QQMGDCjR09G0aVOtX79eTz75pJYsWaL33ntPknTppZfqD3/4g8aMGVPh1z1d
+nQ899JCmTJmi2NhY3XzzzWrSpIlq1aolSZo5c2ZRs3ZpgUKAZIWQ4gGmOH+zfp8+fSrd/+D/
+t2jcuHHA8/6vMTs7u9xzgZ7zwgsvVEhISJlzgf7N/f/9bNu2rdwAYhiGjh07VuEaACAYEEAA
+4AzK2zyufv36MgxDhw4dUp06dc74PP43yXv37g14/ueff650bcOGDdPjjz+u+fPn68EHHyxa
+jeree+8tc227du305ptvqqCgQN9++60+++wzvfTSS/r973+v2rVr67777qvQa5b3/cjMzNTU
+qVN1xRVXaPXq1apdu3aJ8xVdmaqiXn/9dT333HN66qmnVFhYqKeeeqrCj/X/W5T3PfevYBYo
+2Jzuv4cDBw6ooKCgTAgJ9Dr+57799tv1zjvvVLj209UAAMGAZXjPs1deeUVxcXEKDw+v1C9H
+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
+</d>
+</data>
+</abiword>
